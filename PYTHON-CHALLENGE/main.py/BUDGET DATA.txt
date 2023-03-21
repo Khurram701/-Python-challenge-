@@ -1,0 +1,5 @@
+86
+The total amount of Profit/Losses is $22564198
+The average change in Profit/Losses is $-8311.11
+The greatest increase in profits was $1862002 on Aug-16
+The greatest decrease in profits was $-1825558 on Feb-14
